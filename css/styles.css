@@ -368,6 +368,10 @@ a {
   margin-bottom: 2.5rem;
 }
 
+.projects .section-title {
+  color: #000000;
+}
+
 .section-title {
   font-family: var(--font-display);
   font-weight: 700;
